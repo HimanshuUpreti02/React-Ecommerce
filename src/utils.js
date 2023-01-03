@@ -22,7 +22,8 @@ const categories = [
     {
       "id": 5,
       "title": "mens",
-      "imageUrl": "https://i.ibb.co/R70vBrQ/men.png"
+      // "imageUrl": "https://i.ibb.co/R70vBrQ/men.png"
+      "imageUrl" : "https://www.malemodelscene.net/wp-content/uploads/2019/12/lucky-blue-smith.jpg"
     }
   ];
 
